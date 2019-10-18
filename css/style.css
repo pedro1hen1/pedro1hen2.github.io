@@ -1,0 +1,14 @@
+
+#logo-capa{
+	text-align: center;
+	
+}
+
+#logo-capa img{
+	border-radius: 60px;
+}
+
+
+body{
+	background-image: url("../imagem/200.webp") ;
+}

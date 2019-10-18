@@ -1,0 +1,101 @@
+.news_not{
+	text-align: center;
+	font-family: Helvética;
+	font-size: 30px;
+	color: white;
+		
+}
+.news_text p{
+	margin: auto;
+	font-family: Helvética;
+	font-size: 20px;
+	color: white;
+	float: left;
+	display: table-cell;
+	width: 820px;
+	margin-top: 20px;
+}
+.news_text img{
+	
+	float: left;
+}
+
+#event_fort img{
+float: left;
+
+
+}
+#event_fort p{
+	margin: auto;
+	font-family: Helvética;
+	font-size: 20px;
+	color: white;
+	display: table-cell;
+	width: 820px;
+	margin-top: 40px;
+	margin-right:800px;
+}
+#mario_kart p{
+	margin: auto;
+	font-family: Helvética;
+	font-size: 20px;
+	color: white;
+	float: left;
+	display: table-cell;
+	width: 820px;
+	
+}
+#mario_kart img{
+	float:left;
+}
+
+#cod_mob p{
+	margin: auto;
+	font-family: Helvética;
+	font-size: 20px;
+	color: white;
+	float: left;
+	display: table-cell;
+	width: 820px;
+}
+
+#cod_mob img{
+	float: left;
+}
+#sb_news legend{
+	text-align: center;
+	font-family: Helvética;
+	font-size: 30px;
+	color: white;
+}
+#sb_news p{
+	margin: auto;
+	font-family: Helvética;
+	font-size: 20px;
+	color: white;
+	width: 80%;
+}
+#sb_news pre{
+	text-align: left;
+	margin: auto;
+	font-family: Helvética;
+	font-size: 20px;
+	color: white;
+	width: 80%;
+}
+#msg{ 
+width: 500px;
+height: 250px; 
+resize: none;
+}
+#twitch{
+	margin-top: 20px;
+	margin-left: 25%;
+}
+#twitchs{
+	text-align: center;
+	font-family: Helvética;
+	font-size: 30px;
+	color: white;
+
+}
